@@ -1,61 +1,56 @@
-# 👋 Hi, I'm Poojit Bhaskar Kasina!
+## 👋 Hi, I'm Poojit Bhaskar Kasina
 
-### Data Analyst | Cybersecurity Enthusiast | Problem Solver
-
-Welcome to my corner of the web! I'm passionate about diving deep into data and uncovering meaningful insights, while also ensuring digital security for a safer online world. Currently pursuing my **Master of Cybersecurity**, and continually exploring the world of **data analytics** and **machine learning**.
-
----
-
-## 🎓 Education:
-- 📘 **Master of Cybersecurity** – Australasian Academy of Higher Education, Australia (In Progress)
-- 🛠️ **Master of Professional Engineering** – Swinburne University, Australia (2020)
-- ⚙️ **Bachelor of Mechanical Engineering** – India
+🔐 Cybersecurity Graduate Student | Ethical Hacking Enthusiast | Data-Informed Problem Solver  
+📍 Melbourne, Australia
 
 ---
 
-## 🌟 What I Do:
-- 🧑‍💻 **Data Analytics**: Python, SQL, Tableau, Excel
-- 🔐 **Cybersecurity**: Programming, Securing Networks & Systems
-- 💡 **Data Visualization**: Turning raw data into clear and compelling insights
-- 📊 **Machine Learning**: Predictive models and data-driven solutions
+### 🧠 About Me  
+I’m currently pursuing a Master of Cybersecurity at the Australasian Academy of Higher Education, with a hands-on focus in ethical hacking, penetration testing, and network defense. My journey transitioned from data analytics to cybersecurity, blending structured analysis with technical problem-solving. I specialize in DNS enumeration, firewall rule simulation, ICMP filtering, and VM lab setups for red team training.
 
 ---
 
-## 🏅 Certifications & Learning Activities:
+### 💼 Technical Skills  
+**Cybersecurity & Networking**  
+- Ethical hacking tools: Nmap, Wireshark, Metasploit  
+- DNS resolution analysis, ICMP testing, network isolation  
+- VirtualBox configurations: NAT, Bridged, Host-only  
+- Linux environments: Kali Linux, Ubuntu (VM-based)
 
-- **[Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/FTBXWAN4FR2Q)**  - Coursera
-- **Cybersecurity Essentials** – Cisco Networking Academy  
-- **[Credly](https://www.credly.com/users/poojit-kasina/)** – Completed several industry-recognized courses in data analytics and cybersecurity. 
-- **[TryHackMe](https://tryhackme.com/p/Poojit)** – Hands-on cybersecurity training
-- **[Data Visualization with Tableau](https://www.coursera.org/account/accomplishments/specialization/9RBQRA2EG8NY)** – Coursera
-- **[SQL Bootcamp](https://drive.google.com/file/d/1kDgS92-4rm7eUiOgOFU0xcZomY5XVndg/view)** – Light Hall
-
-
-
----
-
-## 🛠️ Skills:
-- **Programming**: Python, SQL
-- **Data Visualization**: Tableau, Power BI, Matplotlib, Excel
-- **Databases**: PostgreSQL,MSSQL
-- **Cybersecurity**: Network security, Secure software development
+**Programming & Data Analytics**  
+- Python, SQL  
+- Tableau, Power BI  
+- PostgreSQL, MSSQL
 
 ---
 
-## 🌐 Featured Projects:
-- **[IPL Decade Dashboard Analysis](https://github.com/Popsy96/IPL-Data-Insights)** – A comprehensive analysis of IPL data from 2008 to 2017, highlighting trends in toss outcomes, player achievements, and team dynamics.
-- **[Healthcare Data Analysis](https://github.com/yourusername/healthcare-data-analysis)** – An exploration of 150,000+ healthcare records across 50 states, extracting strategic insights into costs, provider performance, and regional variations.
-  
-Feel free to explore these projects for more details and interactive dashboards!
+### 🔬 Projects  
+- **TryHackMe Labs** – Red team modules covering enumeration, privilege escalation, and Windows attacks  
+- **DNS & ICMP Recon Toolkit** – Personal experiments simulating enumeration flows and protocol restrictions  
+- **Healthcare Data Insights** – SQL-based analysis of 150K+ records across U.S. healthcare providers  
+- **IPL Decade Dashboard** – Visual analysis of team and player performance (Tableau)
 
 ---
 
-## 📈 Let's Connect:
-- 💼 [LinkedIn](https://www.linkedin.com/in/poojitkasina-aus23/) 
-- 💌 [Email Me](mailto:poojitkasina@gmail.com)
-- 🌍 [Tableau Public Profile](https://public.tableau.com/profile/poojit.kasina)
+### 🎓 Education  
+- Master of Cybersecurity – Australasian Academy of Higher Education *(2024–2026)*  
+- Master of Professional Engineering – Swinburne University *(2020)*  
+- Bachelor of Mechanical Engineering – India
 
 ---
 
-### Fun Fact:
-In my free time, I enjoy exploring cybersecurity case studies and staying updated on the latest trends in data science and machine learning!
+### 📜 Certifications  
+- TryHackMe – Red Team Labs  
+- Cisco Networking Academy – Cybersecurity Essentials  
+- Google Data Analytics – Coursera  
+- Credly – Verified digital credentials in cybersecurity & analytics  
+
+---
+
+### 🌐 Links  
+- [LinkedIn](https://www.linkedin.com/in/poojitkasina-aus23/)  
+- [Medium Blog](https://medium.com/@popsy_aussie)  
+- [Tableau Public Portfolio](https://public.tableau.com/app/profile/poojit.kasina)
+
+---
+
