@@ -1,56 +1,55 @@
-## 👋 Hi, I'm Poojit Bhaskar Kasina
+🚨 Cybersecurity isn’t just my field — it’s my mindset.  
+I’m **Poojit Bhaskar Kasina**, blending forensic precision with ethical hacking to secure digital frontiers.
 
+📍 Melbourne, Australia  
 🔐 Cybersecurity Graduate Student | Ethical Hacking Enthusiast | Data-Informed Problem Solver  
-📍 Melbourne, Australia
 
 ---
 
-### 🧠 About Me  
-I’m currently pursuing a Master of Cybersecurity at the Australasian Academy of Higher Education, with a hands-on focus in ethical hacking, penetration testing, and network defense. My journey transitioned from data analytics to cybersecurity, blending structured analysis with technical problem-solving. I specialize in DNS enumeration, firewall rule simulation, ICMP filtering, and VM lab setups for red team training.
+## 🧠 About Me
+
+My journey began in data analytics, where I built scalable insights across healthcare, HR, and finance. Today, I apply that same structured thinking to cybersecurity — from DNS enumeration to red team simulations. I specialize in:
+
+- Ethical hacking labs (TryHackMe, HackTheBox)
+- DNS & ICMP protocol testing
+- Firewall rule simulation across NAT, bridged, and host-only networks
+- VM-based lab setups using Kali Linux and Ubuntu
+
+I thrive in environments that reward clarity, reproducibility, and ethical rigor.
 
 ---
 
-### 💼 Technical Skills  
-**Cybersecurity & Networking**  
-- Ethical hacking tools: Nmap, Wireshark, Metasploit  
-- DNS resolution analysis, ICMP testing, network isolation  
-- VirtualBox configurations: NAT, Bridged, Host-only  
-- Linux environments: Kali Linux, Ubuntu (VM-based)
+## 🔐 Cybersecurity Projects
 
-**Programming & Data Analytics**  
-- Python, SQL  
-- Tableau, Power BI  
-- PostgreSQL, MSSQL
-
----
-
-### 🔬 Projects  
 - **TryHackMe Labs** – Red team modules covering enumeration, privilege escalation, and Windows attacks  
-- **DNS & ICMP Recon Toolkit** – Personal experiments simulating enumeration flows and protocol restrictions  
-- **Healthcare Data Insights** – SQL-based analysis of 150K+ records across U.S. healthcare providers  
-- **IPL Decade Dashboard** – Visual analysis of team and player performance (Tableau)
+- **DNS & ICMP Recon Toolkit** – Simulated enumeration flows and protocol restrictions  
+- **Firewall Rule Simulator** – Lab-based rule testing across NAT, bridged, and host-only networks  
 
 ---
 
-### 🎓 Education  
-- Master of Cybersecurity – Australasian Academy of Higher Education *(2024–2026)*  
-- Master of Professional Engineering – Swinburne University *(2020)*  
-- Bachelor of Mechanical Engineering – India
+## 📊 Data Analysis Projects (Archived & Redirected)
+
+My earlier work in data analytics lives on in a curated portfolio repo:  
+👉 [DataAnalysisbyPoojit](https://github.com/Popsy96/DataAnalysisbyPoojit)
+
+Projects include:
+
+- Healthcare Data Insights – SQL-based analysis of 150K+ records  
+- IPL Decade Dashboard – Tableau visualizations of team and player performance  
+- HR Analytics – Capstone visuals and workforce segmentation  
+- Banking Risk Mitigation – EDA and fraud detection modeling  
 
 ---
 
-### 📜 Certifications  
-- TryHackMe – Red Team Labs  
-- Cisco Networking Academy – Cybersecurity Essentials  
-- Google Data Analytics – Coursera  
-- Credly – Verified digital credentials in cybersecurity & analytics  
+## 🎓 Certifications
+
+- **TryHackMe – Red Team Labs** (2025)  
+- **Cisco Networking Academy – Cybersecurity Essentials** (2024)  
+- **Google Data Analytics – Coursera** (2023)  
 
 ---
 
-### 🌐 Links  
-- [LinkedIn](https://www.linkedin.com/in/poojitkasina-aus23/)  
-- [Medium Blog](https://medium.com/@popsy_aussie)  
-- [Tableau Public Portfolio](https://public.tableau.com/app/profile/poojit.kasina)
+## 📬 Let’s Connect
 
----
-
+I’m open to internships, mentorships, and collaborative cybersecurity projects.  
+Reach out via [LinkedIn](https://www.linkedin.com/in/poojitkasina-aus23) or explore my labs and writeups on [Medium](https://medium.com/@popsy_aussie).
