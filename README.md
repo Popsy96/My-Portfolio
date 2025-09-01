@@ -53,3 +53,9 @@ Projects include:
 
 I’m open to internships, mentorships, and collaborative cybersecurity projects.  
 Reach out via [LinkedIn](https://www.linkedin.com/in/poojitkasina-aus23) or explore my labs and writeups on [Medium](https://medium.com/@popsy_aussie).
+
+![Poojit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Popsy96&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Popsy96&theme=dark)
+
+
