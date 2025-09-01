@@ -6,7 +6,7 @@ I blend forensic precision with ethical hacking to secure digital frontiers.
 
 🔐 Cybersecurity Graduate Student | Ethical Hacking Enthusiast | Data-Informed Problem Solver
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Popsy96&show_icons=true&theme=radical)
+
 
 ---
 
@@ -65,3 +65,7 @@ Explore my forensic labs, red team writeups, and data dashboards:
 - [💼 LinkedIn Profile](https://www.linkedin.com/in/poojitkasina-aus23)
 
 🧠 Motto: _“Documenting the digital frontier, one ethical exploit at a time.”_
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Popsy96&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Popsy96&theme=dark)
+
