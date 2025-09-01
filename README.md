@@ -1,71 +1,76 @@
 🚨 Cybersecurity isn’t just my field — it’s my mindset.
 
-Hey there, I’m **Poojit Bhaskar Kasina** 👨‍💻  
-I blend forensic precision with ethical hacking to secure digital frontiers.  
-📍 Melbourne, Australia | 🎯 Building CyberXPopsy | 🌐 Focused on reproducibility, clarity, and recruiter impact
-
-🔐 Cybersecurity Graduate Student | Ethical Hacking Enthusiast | Data-Informed Problem Solver
-
-
+Hey, I’m **Poojit Bhaskar Kasina** 👨‍💻  
+Cybersecurity Master’s Student | Ethical Hacking | SOC & CTI | Digital Forensics  
+📍 Melbourne, Australia | 🎯 Building CyberXPopsy | 🧪 Documenting the digital frontier
 
 ---
 
 ## 🧠 About Me
 
-My journey began in data analytics, where I built scalable insights across healthcare, HR, and finance.  
-Today, I apply that same structured thinking to cybersecurity — from DNS enumeration to red team simulations.
+I’m a cybersecurity graduate student at AAHE, specializing in:
+- 🛡️ Ethical hacking labs (TryHackMe, John the Ripper, Burp Suite)
+- 🔍 Web vulnerability testing & forensic documentation
+- 🧪 SOC simulations, SIEM analysis, and incident response
+- 🧰 Linux system forensics, protocol enumeration, and firewall rule testing
 
-I specialize in:
-- Ethical hacking labs (TryHackMe, HackTheBox)
-- DNS & ICMP protocol testing
-- Firewall rule simulation across NAT, bridged, and host-only networks
-- VM-based lab setups using Kali Linux and Ubuntu
-
-I thrive in environments that reward clarity, reproducibility, and ethical rigor.
+My background in engineering and data analytics helps me break down problems logically and approach cybersecurity with structured precision.
 
 ---
 
-## 🔐 Cybersecurity Projects
+## 🔬 Featured Cyber Labs
 
-- **TryHackMe Labs** – Red team modules covering enumeration, privilege escalation, and Windows attacks  
-- **DNS & ICMP Recon Toolkit** – Simulated enumeration flows and protocol restrictions  
-- **Firewall Rule Simulator** – Lab-based rule testing across NAT, bridged, and host-only networks  
+| 🧪 Lab Title                        | Tools Used                        | Focus Area                  |
+|-----------------------------------|-----------------------------------|-----------------------------|
+| ZIP Cracking Workflow             | `zipinfo`, `John the Ripper`      | Password Recovery & Debugging |
+| DNS & ICMP Recon Toolkit          | `ping`, `nslookup`, `Wireshark`   | Protocol Enumeration        |
+| Firewall Rule Simulator           | VirtualBox, NAT/Bridged Networks  | Rule Testing & Isolation    |
+| Web App Exploits                  | Burp Suite, Nmap, Metasploit      | Vulnerability Discovery     |
 
 ---
 
-## 📊 Data Analysis Projects (Archived & Redirected)
+## 🧠 CyberXPopsy: My Documentation Channel
 
-My earlier work in data analytics lives on in a curated portfolio repo:  
-👉 [DataAnalysisbyPoojit](https://github.com/Popsy96/DataAnalysisbyPoojit)
+CyberXPopsy is my personal initiative to document ethical exploits, forensic workflows, and protocol behavior with clarity and reproducibility.
 
-Projects include:
-- Healthcare Data Insights – SQL-based analysis of 150K+ records  
-- IPL Decade Dashboard – Tableau visualizations of team and player performance  
-- HR Analytics – Capstone visuals and workforce segmentation  
-- Banking Risk Mitigation – EDA and fraud detection modeling  
+> _“CyberXPopsy is where exploits meet ethics, and documentation becomes art.”_
 
 ---
 
 ## 🎓 Certifications
 
-- **TryHackMe – Red Team Labs** (2025)  
-- **Cisco Networking Academy – Cybersecurity Essentials** (2024)  
-- **Google Data Analytics – Coursera** (2023)  
+- **Linux 100 Fundamentals – TCM Security**  
+- **Ethical Hacking – Internshala Trainings**  
+- **Web Application Security – AAHE**  
+- **Google Data Analytics – Coursera**  
+- **Data Visualization with Tableau – UC Davis**
+
+---
+
+## 💼 Experience
+
+**Data Analyst Intern – OESON**  
+- Applied ML and EDA across banking, healthcare, and supply chain datasets  
+- Built dashboards in Tableau, Excel, and MySQL  
+- Delivered insights for risk mitigation and strategic planning
+
+**Production Analyst – Breadsolutions**  
+- Managed shift goals, optimized workflows, and analyzed production data
 
 ---
 
 ## 📬 Let’s Connect
 
 I’m open to internships, mentorships, and collaborative cybersecurity projects.  
-Explore my forensic labs, red team writeups, and data dashboards:
+Explore my labs, dashboards, and writeups:
 
-- [🔗 Medium Writeups](https://medium.com/@popsy_aussie)  
-- [📊 Tableau Dashboards](https://public.tableau.com/app/profile/poojit.kasina)  
-- [📁 DataAnalysisbyPoojit Repo](https://github.com/Popsy96/DataAnalysisbyPoojit)  
-- [💼 LinkedIn Profile](https://www.linkedin.com/in/poojitkasina-aus23)
+- [🔗 LinkedIn Profile](https://www.linkedin.com/in/poojitkasina-aus23)  
+- [📁 GitHub Repos](https://github.com/Popsy96)  
+- [📝 Medium Writeups](https://medium.com/@popsy_aussie)  
+- [📊 Tableau Dashboards](https://public.tableau.com/app/profile/poojit.kasina)
 
 🧠 Motto: _“Documenting the digital frontier, one ethical exploit at a time.”_
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Popsy96&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Popsy96&theme=dark)
+---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Popsy96&show_icons=true&theme=radical)
