@@ -74,3 +74,5 @@ Explore my labs, dashboards, and writeups:
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Popsy96&show_icons=true&theme=radical)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/CyberXPopsy.png)
+
