@@ -38,7 +38,7 @@ Modular guides for:
 ## 📬 Connect  
 - [LinkedIn](https://www.linkedin.com/in/poojitkasina-aus23)  
 - [GitHub](https://github.com/Popsy96)  
-- [Medium](https://medium.com/@popsy_aussie)  
+- [Medium](https://medium.com/@CyberXPopsy)  
 - [Tableau](https://public.tableau.com/app/profile/poojit.kasina)
 
 ---
