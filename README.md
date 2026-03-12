@@ -1,46 +1,103 @@
-# 👨‍💻 Poojit Bhaskar Kasina
+<!-- Ultimate Dark Cybersecurity README -->
 
-Master’s student in Cybersecurity | Digital Forensics & Ethical Hacking  
-Creator of **CyberXPopsy** – beginner-friendly documentation for ethical exploits and forensic workflows.
+<h1 align="center">🛡️ Poojit Bhaskar Kasina</h1>
+<h3 align="center">Cybersecurity | SOC | Threat Analysis | Network Security | Python Automation</h3>
 
----
-
-## 🧪 Cyber Labs
-
-### 🔐 TryHackMe  
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/CyberXPopsy.png)](https://tryhackme.com/p/CyberXPopsy)
-
-### 🧠 Hack The Box  
-[🔗 HTB Profile](https://app.hackthebox.com/users/CyberXPopsy)
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Active-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Location-Melbourne-green?style=for-the-badge">
+</p>
 
 ---
 
-## 📚 Certifications  
-- Linux Fundamentals – TCM Security  
-- Ethical Hacking – Internshala  
-- Web App Security – AAHE  
-- Google Data Analytics – Coursera  
-- Tableau Visualization – UC Davis
+## 🕶️ About Me
+I am a cybersecurity graduate student with hands‑on experience in **insider threat forensics, cloud security configuration, ransomware analytics, and penetration testing**.  
+I focus on **evidence‑driven analysis, strong documentation, and translating complex findings into clear insights**.
 
 ---
 
-## 📁 CyberXPopsy  
-Modular guides for:
-- Linux forensics  
-- SSH troubleshooting  
-- Ethical exploit documentation  
-- Beginner onboarding assets
+## 🧩 Skills & Technologies
 
-> _“Where exploits meet ethics, and documentation becomes art.”_
+### 🔐 Cybersecurity
+- SOC Fundamentals  
+- Threat Detection  
+- Digital Forensics (Autopsy, FTK Imager)  
+- Network Traffic Analysis (Wireshark)  
+- Vulnerability Assessment  
+- Incident Response  
+- OSINT & Reconnaissance  
+- Linux Administration  
+
+### 🛠 Tools
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-black?logo=linux&style=flat">
+  <img src="https://img.shields.io/badge/Nmap-blue?style=flat">
+  <img src="https://img.shields.io/badge/Wireshark-teal?style=flat">
+  <img src="https://img.shields.io/badge/Metasploit-purple?style=flat">
+  <img src="https://img.shields.io/badge/Nessus-green?style=flat">
+  <img src="https://img.shields.io/badge/Autopsy-grey?style=flat">
+  <img src="https://img.shields.io/badge/FTK%20Imager-grey?style=flat">
+</p>
+
+### 🧪 Programming & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Python-yellow?logo=python&style=flat">
+  <img src="https://img.shields.io/badge/R-blue?logo=r&style=flat">
+  <img src="https://img.shields.io/badge/Bash-black?logo=gnu-bash&style=flat">
+  <img src="https://img.shields.io/badge/Tableau-orange?logo=tableau&style=flat">
+</p>
 
 ---
 
-## 📬 Connect  
-- [LinkedIn](https://www.linkedin.com/in/poojitkasina-aus23)  
-- [GitHub](https://github.com/Popsy96)  
-- [Medium](https://medium.com/@CyberXPopsy)  
-- [Tableau](https://public.tableau.com/app/profile/poojit.kasina)
+# 📂 Featured Projects
+
+### 🔍 Insider Threat Forensics — CYB812
+- Investigated simulated insider exfiltration  
+- Reconstructed timeline using Autopsy & FTK  
+- Verified integrity with SHA256  
+- Presented findings to non‑technical stakeholders  
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Popsy96&show_icons=true&theme=radical)
+### ☁️ Cloud Security & Compliance — CYB811
+- IAM, MFA, S3, CloudTrail, CloudWatch  
+- SNS alerting pipelines  
+- HIPAA/GDPR compliance validation  
+- Captured audit logs for forensic traceability  
+
+---
+
+### 🦠 Ransomware Analytics — CYB810
+- EDA in R  
+- Attack pattern visualization  
+- Identified entry vectors & recovery times  
+- Zero Trust recommendations  
+
+---
+
+### 💥 Pentesting Lab — CYB809
+- 18,737 packets analyzed  
+- vsFTPd exploit simulation  
+- Nessus vulnerability assessment  
+- Documented remediation strategies  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Popsy96&show_icons=true&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Popsy96&layout=compact&theme=tokyonight" height="160">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Popsy96&theme=tokyonight" height="160">
+</p>
+
+---
+
+## 🔗 Connect With Me
+- **GitHub:** Popsy96  
+- **LinkedIn:** *Add your link*  
