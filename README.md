@@ -1,7 +1,7 @@
 <!-- Ultimate Dark Cybersecurity README -->
 
 <h1 align="center">🛡️ Poojit Bhaskar Kasina</h1>
-<h3 align="center">Cybersecurity | SOC | Threat Analysis | Network Security | Python Automation</h3>
+<h3 align="center">Cybersecurity | SOC | Threat Analysis | Network Security | VAPT </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-Active-blueviolet?style=for-the-badge">
@@ -98,6 +98,3 @@ I focus on **evidence‑driven analysis, strong documentation, and translating c
 
 ---
 
-## 🔗 Connect With Me
-- **GitHub:** Popsy96  
-- **LinkedIn:** *Add your link*  
