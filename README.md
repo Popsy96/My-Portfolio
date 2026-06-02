@@ -82,17 +82,6 @@ Recon → enumeration → exploitation simulation → remediation.
 **Programming:** Python • JavaScript • SQL • Bash • R  
 **Platforms:** AWS • Linux • Git/GitHub
 
----
-
-# 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Popsy96&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Popsy96&layout=compact&theme=tokyonight" height="160">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Popsy96&theme=tokyonight">
-</p>
 
 ---
 
