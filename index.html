@@ -59,9 +59,9 @@
 
     /* ── HERO ── */
     #hero {
-      min-height: 100vh;
+      min-height: 92vh;
       display: flex; flex-direction: column; justify-content: center;
-      padding: 0 4rem;
+      padding: 6rem 4rem 3rem;
       position: relative;
       overflow: hidden;
     }
@@ -110,14 +110,15 @@
     @keyframes blink { 50% { opacity: 0; } }
 
     .hero-desc {
-      margin-top: 1.8rem;
+      margin-top: 1.2rem;
       max-width: 520px;
       color: var(--slate);
+      font-family: var(--sans);
       font-size: 0.97rem;
       line-height: 1.8;
     }
     .hero-cta {
-      margin-top: 2.5rem;
+      margin-top: 1.8rem;
       display: flex; gap: 1rem; flex-wrap: wrap;
     }
     .btn {
@@ -146,7 +147,7 @@
     .btn-outline:hover { border-color: var(--cyan); color: var(--cyan); }
 
     .hero-badges {
-      margin-top: 3.5rem;
+      margin-top: 2rem;
       display: flex; gap: 2rem; flex-wrap: wrap;
     }
     .badge {
@@ -158,7 +159,7 @@
     .badge span { color: var(--cyan); }
 
     /* ── SECTIONS ── */
-    section { padding: 6rem 4rem; }
+    section { padding: 3.5rem 4rem; }
     section + section { border-top: 1px solid var(--border); }
 
     .section-label {
@@ -182,11 +183,11 @@
     .about-grid {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 4rem;
-      margin-top: 2.5rem;
+      gap: 3rem;
+      margin-top: 1.5rem;
       align-items: start;
     }
-    .about-text p { color: var(--slate); font-size: 0.96rem; line-height: 1.9; margin-bottom: 1rem; }
+    .about-text p { color: var(--slate); font-family: var(--sans); font-size: 0.96rem; line-height: 1.9; margin-bottom: 1rem; }
     .about-text p:last-child { margin-bottom: 0; }
     .about-text strong { color: var(--body); }
     .about-stats { display: flex; flex-direction: column; gap: 1.2rem; }
@@ -199,14 +200,14 @@
     }
     .stat-icon { font-size: 1.3rem; margin-top: 0.1rem; }
     .stat-label { font-family: var(--mono); font-size: 0.75rem; color: var(--slate); letter-spacing: 0.08em; text-transform: uppercase; }
-    .stat-value { font-family: var(--mono); font-size: 0.9rem; color: var(--body); margin-top: 0.25rem; }
+    .stat-value { font-family: var(--sans); font-size: 0.9rem; color: var(--body); margin-top: 0.25rem; }
 
     /* ── SKILLS ── */
     .skills-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 1.5rem;
-      margin-top: 2.5rem;
+      gap: 1rem;
+      margin-top: 1.5rem;
     }
     .skill-card {
       padding: 1.5rem;
@@ -240,8 +241,8 @@
     .projects-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-      gap: 1.5rem;
-      margin-top: 2.5rem;
+      gap: 1rem;
+      margin-top: 1.5rem;
     }
     .project-card {
       padding: 1.8rem;
@@ -275,6 +276,7 @@
     }
     .project-desc {
       font-size: 0.88rem;
+      font-family: var(--sans);
       color: var(--slate);
       line-height: 1.75;
       flex: 1;
@@ -294,7 +296,7 @@
     /* ── CONTACT ── */
     #contact { text-align: center; }
     #contact h2 { margin-bottom: 0.5rem; }
-    .contact-sub { color: var(--slate); font-size: 0.95rem; margin-bottom: 2.5rem; }
+    .contact-sub { color: var(--slate); font-family: var(--sans); font-size: 0.95rem; margin-bottom: 1.5rem; }
     .contact-links {
       display: flex; justify-content: center; gap: 1.2rem; flex-wrap: wrap;
     }
@@ -317,7 +319,8 @@
       nav { padding: 1rem 1.5rem; }
       .nav-links { display: none; }
       #hero, section { padding-left: 1.5rem; padding-right: 1.5rem; }
-      .about-grid { grid-template-columns: 1fr; gap: 2rem; }
+      #hero { padding-top: 5rem; }
+      .about-grid { grid-template-columns: 1fr; gap: 1.5rem; }
       footer { padding: 1.5rem; }
     }
 
@@ -333,10 +336,10 @@
   <nav>
     <div class="nav-logo">pk@portfolio:~$</div>
     <ul class="nav-links">
-      <li><a href="#about">about</a></li>
-      <li><a href="#skills">skills</a></li>
-      <li><a href="#projects">projects</a></li>
-      <li><a href="#contact">contact</a></li>
+      <li><a href="#About">about</a></li>
+      <li><a href="#Skills">skills</a></li>
+      <li><a href="#Projects">projects</a></li>
+      <li><a href="#Contact">contact</a></li>
     </ul>
   </nav>
 
