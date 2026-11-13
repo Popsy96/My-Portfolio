@@ -4,7 +4,7 @@
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Graduate_2026-00eaff?style=for-the-badge)
 ![AAHE Winner](https://img.shields.io/badge/🏆_AAHE-Poster_Winner_2026-gold?style=for-the-badge)
-![Location](https://img.shields.io/badge/Melbourne-Australia-success?style=for-the-badge)
+![Location](https://img.shields.io/badge/Rajahmundry-India-success?style=for-the-badge)
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ### Cybersecurity Graduate | Threat Intelligence | SOC | GRC
 
-📍 Melbourne, Australia
+📍 Rajahmundry, India · Open to relocation
 
 📧 poojitkasina@gmail.com
 
