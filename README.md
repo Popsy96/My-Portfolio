@@ -5,7 +5,6 @@
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Graduate_2026-00eaff?style=for-the-badge)
 ![AAHE Winner](https://img.shields.io/badge/🏆_AAHE-Poster_Winner_2026-gold?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Melbourne-Australia-success?style=for-the-badge)
-![Sponsorship](https://img.shields.io/badge/Open_to_Sponsorship-482_TSS-blue?style=for-the-badge)
 
 </div>
 
@@ -35,7 +34,7 @@ Cybersecurity graduate with practical experience in:
 
 Winner of the **AAHE Poster Competition 2026** for developing an Australia-focused Cyber Threat Intelligence Dashboard integrating multiple OSINT intelligence sources and security frameworks.
 
-Currently seeking **Graduate and Entry-Level Cybersecurity Opportunities across Australia** and open to **482 sponsorship opportunities**.
+Currently seeking **graduate and entry-level cybersecurity roles** (SOC, CTI, GRC). **Available to join immediately.**
 
 ---
 
@@ -77,7 +76,7 @@ ISO 27001
 CVSS v3.1
 ```
 
-📌 Repository Coming Soon
+🔗 **Code:** [Popsy96/CyberSecurity-Projects](https://github.com/Popsy96/CyberSecurity-Projects) · **Live dashboard:** [popsy96.github.io/CyberSecurity-Projects](https://popsy96.github.io/CyberSecurity-Projects/)
 
 ---
 
